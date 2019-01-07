@@ -1,3 +1,4 @@
+#---------------COMPACT ENGLISH DICTIONARY----------------------#
 import json
 from difflib import SequenceMatcher
 
